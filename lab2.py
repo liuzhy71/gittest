@@ -1,4 +1,4 @@
-#file object=open()
+#file object=open();
 to_do_list=["Take a break","Go back to home","Go to a lecture"];
 option_list={"Insert a new task":1,"Remove a task (by typing its content)":2,"Show all existing tasks":3,"close the program":4};
 
